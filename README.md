@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HerschelW
 - 👀 I’m interested in new tech.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on new app ideas!
 - 📫 Feel free to reach out to me at theaceco@protonmail.com
 
